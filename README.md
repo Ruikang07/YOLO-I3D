@@ -6,7 +6,7 @@ YOLO-I3D is a hybrid 2D/3D structure. The YOLOv5 Bottom is used to extract the s
 This code is based on Ultralytics's [YOLOv5](https://github.com/ultralytics/yolov5) and Miracleyoo's [Trainable-i3d-pytorch](https://github.com/miracleyoo/Trainable-i3d-pytorch)
 <br><br>
 <img src="YOLO-I3D.png">
-&nbsp;           &nbsp;Figure 1: Architecture of proposed YOLO_I3D.
+&nbsp;              &nbsp;Figure 1: Architecture of proposed YOLO_I3D.
 
 <br><br>
 
